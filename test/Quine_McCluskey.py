@@ -1,1 +1,2 @@
-print("Fuck you ain't adding that yet. Will try tho (Nigga)")
+print("QUine McCluskey Program (By toni castanares)")
+
